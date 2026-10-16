@@ -6,7 +6,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,45:301000,100:FF6A00&height=200&section=header&text=NORTOV&fontSize=72&fontColor=FF8C00&fontAlignY=38&desc=FULL-STACK%20%26%20DESKTOP%20DEVELOPER&descSize=17&descColor=FFFFFF&descAlignY=60&animation=fadeIn" />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0A,45:301000,100:FF6A00&amp;height=200&amp;section=header&amp;text=NORTOV&amp;fontSize=72&amp;fontColor=FF8C00&amp;fontAlignY=38&amp;desc=FULL-STACK%20%26%20DESKTOP%20DEVELOPER&amp;descSize=17&amp;descColor=FFFFFF&amp;descAlignY=60&amp;animation=fadeIn"
+/>
+
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=700&lines=FULL-STACK+%26+DESKTOP+DEVELOPER;REACT+%2F+NEXT.JS+%2F+NODE.JS;C%23+%2F+.NET+%2F+DESKTOP+APPS;BUILDING+SOFTWARE+BEYOND+THE+BROWSER" alt="Typing SVG" />
