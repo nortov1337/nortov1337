@@ -7,10 +7,9 @@
 <div align="center">
 
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0A,45:301000,100:FF6A00&amp;height=200&amp;section=header&amp;text=NORTOV&amp;fontSize=72&amp;fontColor=FF8C00&amp;fontAlignY=38&amp;desc=FULL-STACK%20%26%20DESKTOP%20DEVELOPER&amp;descSize=17&amp;descColor=FFFFFF&amp;descAlignY=60&amp;animation=fadeIn"
-/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0A,45:301000,100:FF6A00&amp;height=200&amp;section=header&amp;text=NORTOV&amp;fontSize=72&amp;fontColor=FF8C00&amp;fontAlignY=38&amp;desc=FULL-STACK%20AND%20DESKTOP%20DEVELOPER&amp;descSize=17&amp;descColor=FFFFFF&amp;descAlignY=60&amp;animation=fadeIn" />
+
 
 
 <a href="https://github.com/YOUR_USERNAME">
