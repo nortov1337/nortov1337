@@ -66,7 +66,7 @@ I work across frontend, backend, and desktop applications, turning ideas into fu
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/nortov1337?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-FF6A00?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Explore repositories" />
 </a>
 
