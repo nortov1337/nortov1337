@@ -6,11 +6,9 @@
 
 <div align="center">
 
-<!-- NEON HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,45:301000,100:FF6A00&height=200&section=header&text=NORTOV&fontSize=72&fontColor=FF8C00&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=18&descColor=FFFFFF&descAlignY=60&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/">
+<a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=650&lines=FULL-STACK+DEVELOPER;REACT+%2F+NEXT.JS+%2F+NODE.JS;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME;INITIALIZING+NORTOV.SYS..." alt="Typing SVG" />
 </a>
 
@@ -24,25 +22,18 @@
 
 ---
 
-## `> ABOUT_ME`
+## `> WHOAMI`
 
-```yaml
-name: NORTOV
-role: Full-Stack Developer
-frontend:
-  - React
-  - Next.js
-backend:
-  - Node.js
-  - REST APIs
-databases:
-  - PostgreSQL
-interests:
-  - Web Development
-  - Software Engineering
-  - Open Source
-motto: "Build. Break. Learn. Repeat."
-```
+Full-stack developer focused on building modern web applications.
+
+I work across the frontend and backend, turning ideas into functional software.
+
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, REST APIs
+- **Database:** PostgreSQL
+- **Interests:** Web development, software engineering, open source
+
+> `Build. Break. Learn. Repeat.`
 
 ## `> TECH_STACK`
 
@@ -61,27 +52,6 @@ motto: "Build. Break. Learn. Repeat."
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Development tools" />
 
 </div>
-
-## `> GITHUB_STATS`
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF6A00&text_color=E6E6E6&icon_color=FF8C00&ring_color=FF6A00&include_all_commits=true" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF6A00&text_color=E6E6E6&langs_count=8" alt="Top programming languages" />
-</a>
-
-</div>
-
-## `> CURRENT_MISSION`
-
-- [ ] Build useful and reliable web applications.
-- [ ] Improve full-stack development skills.
-- [ ] Explore new technologies and tools.
-- [ ] Create projects worth sharing.
 
 ---
 
